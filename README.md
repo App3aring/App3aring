@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @App3aring
-- 👀 I’m interested in ... blockchain tech especially cardano
+- 👀 I’m interested in ... blockchain tech especially cardano and ergo
 - 🌱 I’m currently learning ... haskell
 - 💞️ I’m looking to collaborate on ... just learning coding
 - 📫 How to reach me ... smoke signals
